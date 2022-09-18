@@ -1,0 +1,33 @@
+const users=[
+    {
+        id:1,
+        name:"phani",
+        email:"abc@gmail.com",
+        type:"admin",
+    },
+    {
+        id:2,
+        name:"charan",
+        email:"bcd@gmail.com",
+        type:"client"
+    },
+    {
+        id:3,
+        name:"venkata",
+        email:"cde@gmail.com",
+        type:"guest"
+    },
+    {
+        id:4,
+        name:"arun",
+        email:"def@gmail.com",
+        type:"admin"
+    },
+    {
+        id:5,
+        name:"manoj",
+        email:"efg@gmail.com",
+        type:"client"
+    }
+];
+module.exports=users;
